@@ -1,6 +1,6 @@
 # Hi, here sofinico :horse: :herb: :wave:
 
-I'm from argentina :argentina:, recently graduated in physics and blockchain technologies enthusiast :link: :globe_with_meridians: :closed_lock_with_key: .
+I'm from Argentina :argentina:, recently graduated in physics and blockchain technologies enthusiast :link: :globe_with_meridians: :closed_lock_with_key: .
 
 Feel free to reach out and connect! Let's chat :crystal_ball:
 
