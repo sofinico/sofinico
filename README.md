@@ -1,23 +1,7 @@
-# sofi nico 🐴
+# Hi, here sofinico :horse: :herb: :wave:
 
-i'm from argentina, recently graduated in physics and i like blockchain technologies.
+I'm from argentina :argentina:, recently graduated in physics and blockchain technologies enthusiast :link: :globe_with_meridians: :closed_lock_with_key: .
 
-contact me!
+Feel free to reach out and connect! Let's chat :mate: :crystal_ball:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolettisofia1@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/sofianicoletti) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/sofinico)
-
-
-<!--
-**sofinico/sofinico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
